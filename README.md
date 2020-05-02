@@ -3,6 +3,8 @@ Subtitle Grabber
 
 Pre-requisite -> Python 3 or higher
 
+<img src="https://github.com/koortix/SubGub/blob/master/SubGub.JPG"></img>
+
 It uses the http://thesubdb.com/api/
 
 Future development :
